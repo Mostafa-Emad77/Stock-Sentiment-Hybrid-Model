@@ -42,15 +42,10 @@ This project aims to predict stock prices by creating a hybrid model that combin
 ### 7. Fine-Tuning
 
 - **Parameter Tuning:** Fine-tune the model parameters to improve performance.
-- **Regularization:** Apply regularization techniques to prevent overfitting.
 
 ### 8. Save Merged DataFrame
 
 - **Save DataFrame:** Save the merged DataFrame, which contains both stock data and preprocessed headlines, as a new CSV file for future use.
-
-### 9. Conclusion
-
-Summarize the findings, discuss the performance of the hybrid model, and suggest potential improvements.
 
 ## Conclusion
 
