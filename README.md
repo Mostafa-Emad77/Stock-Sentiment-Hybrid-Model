@@ -10,6 +10,7 @@ This project aims to predict stock prices by creating a hybrid model that combin
 
 - **Stock Data:** Download historical stock data from Yahoo Finance using the `yfinance` library.
 - **News Headlines:** Collect news headlines related to the stock from a suitable source.
+**Note:** The dataset for news headlines can be downloaded from this link: [Headlines Dataset](https://bit.ly/36fFPI6).
 
 ### 2. Data Preprocessing
 
@@ -41,6 +42,7 @@ This project aims to predict stock prices by creating a hybrid model that combin
 ### 7. Fine-Tuning
 
 - **Parameter Tuning:** Fine-tune the model parameters to improve performance.
+- **Regularization:** Apply regularization techniques to prevent overfitting.
 
 ### 8. Save Merged DataFrame
 
@@ -55,3 +57,5 @@ Summarize the findings, discuss the performance of the hybrid model, and suggest
 This project demonstrates the application of a hybrid model for stock price prediction, combining numerical analysis and sentiment analysis. It provides insights into the relationship between news sentiment and stock performance.
 
 Feel free to customize and expand upon each section based on the specifics of your project.
+
+
